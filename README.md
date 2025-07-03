@@ -12,11 +12,11 @@
 - Rangga ramadhana 155
 
 ## preview
-![preview](/hertahub.domain/images/WhatsApp%20Image%202025-07-03%20at%2009.29.29.jpeg)
-![preview](/hertahub.domain/images/WhatsApp%20Image%202025-07-03%20at%2009.29.30%20(1).jpeg)
-![preview](/hertahub.domain/images/WhatsApp%20Image%202025-07-03%20at%2009.29.30%20(2).jpeg)
-![preview](/hertahub.domain/images/WhatsApp%20Image%202025-07-03%20at%2009.29.30.jpeg)
-![preview](/hertahub.domain/images/WhatsApp%20Image%202025-07-03%20at%2009.29.31.jpeg)
+![preview](/images/WhatsApp%20Image%202025-07-03%20at%2009.29.29.jpeg)
+![preview](/images/WhatsApp%20Image%202025-07-03%20at%2009.29.30%20(1).jpeg)
+![preview](/images/WhatsApp%20Image%202025-07-03%20at%2009.29.30%20(2).jpeg)
+![preview](/images/WhatsApp%20Image%202025-07-03%20at%2009.29.30.jpeg)
+![preview](/images/WhatsApp%20Image%202025-07-03%20at%2009.29.31.jpeg)
 
 Massively by HTML5 UP
 html5up.net | @ajlkn
